@@ -1,0 +1,31 @@
+.dashboard-container {
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .image-container {
+    margin-bottom: 15px;
+  }
+  
+  .dashboard-image {
+    width: 300px;
+    height: auto;
+    transition: transform 0.3s ease;
+  }
+  
+  .button-container {
+    margin: 20px;
+  }
+  
+  .button-container button {
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .chart-container {
+    width: 600px;
+    margin: 0 auto;
+  }
+  
